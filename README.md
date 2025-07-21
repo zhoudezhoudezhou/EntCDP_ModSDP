@@ -1,10 +1,10 @@
-**EntCDP and ModSDP** : Common and Specific Driver Pathway
+# EntCDP and ModSDP:
 
 ## Introduction
 
 - **EntCDP**: aims to identify **common signaling pathways** across multiple cancer types.  
   To run EntCDP: `run_EntCDP.m`
-- **ModSDP**: aims to identify **specific signaling pathways** in one group of cancers **relative to another group**.  
+- **ModSDP**: aims to identify **specific signaling pathways** in one group of cancers **compared to another group**.  
   To run ModSDP: `run_ModSDP.m`
 
 ---
